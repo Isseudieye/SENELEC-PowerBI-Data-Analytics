@@ -44,6 +44,6 @@ Il porte sur la conception de tableaux de bord interactifs avec Microsoft Power 
 - Data Visualization
 - Modélisation des données
 - Conception de tableaux de bord décisionnels
-ne donnée confidentielle de la SENELEC n'est destinée à être diffusée.
+  
 
 *Projet réalisé dans le cadre d'une expérience professionnelle à la SENELEC.*
